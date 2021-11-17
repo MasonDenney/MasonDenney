@@ -3,5 +3,5 @@ Hey, I'm Mason Denney! 👋
 - Living in Phoenix, Arizona, USA
 
 Find me elsewhere 👀
-- [Site & Blog](https://masondenney.com)
-- [LinkedIn](https://www.linkedin.com/in/masondenney)
+- Site & Blog: [https://www.masondenney.com](https://www.masondenney.com)
+- Linkedin: [https://www.linkedin.com/in/masondenney](https://www.linkedin.com/in/masondenney)
