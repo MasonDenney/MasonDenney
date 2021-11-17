@@ -1,6 +1,6 @@
 Hey, I'm Mason Denney! 👋
 - Engineer - DevOps, Cloud, Security
-- Living in Arizona, USA
+- Living in Phoenix, Arizona, USA
 
 Find me elsewhere 👀
 - [Site & Blog](https://masondenney.com)
